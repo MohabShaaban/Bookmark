@@ -1,0 +1,27 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=PT+Sans+Caption:wght@400;700&family=Pacifico&family=Righteous&family=Saira+Condensed:wght@300;400;500;600;700;800&display=swap");
+
+body {
+  font-family: "PT Sans Caption", sans-serif;
+}
+
+
+main h1 {
+  font-size: 50px;
+  font-family: "Pacifico", cursive;
+}
+
+.bookmark-body {
+  border-width: 2px 0 2px 0;
+  border-style: dotted;
+}
+
+.bookmark-body h2 {
+  font-family: "Righteous", cursive;
+  font-size: 25px;
+}
+
+.box-conent p {
+  font-family: "Bree Serif", serif;
+  font-size: 21px;
+  line-height: 1.3;
+}
